@@ -4,5 +4,5 @@ week: 0
 date: 2023-12-20
 ---
 
-1. Hello world!
+Hello world!
 {: .fs-5 }

@@ -30,6 +30,8 @@ permalink: pretty
 aux_links:
   Ed:
     - 'https://edstem.org/us/dashboard'
+  bCourses:
+    - 'https://bcourses.berkeley.edu'
   CAP:
     - 'https://capclubberkeley.com'
 footer_content:

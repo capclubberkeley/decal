@@ -22,3 +22,6 @@ seo:
 {% endfor %}
 
 ## Calendar
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}

@@ -43,6 +43,7 @@ Students may use their electronic devices (laptop or tablets) to access course m
 
 ## Labs
 **Talk more about what the labs are here**
+
 Students must wear dark, loose-fitting clothing while using a camera. This will prevent reflections and allow for free movement. Bright colored clothing will reflect in the background and distract shots or actors. Wear dark colored clothing that you can move freely and get dirty which you don’t need to worry too much (Week 2 & 5).
 
 ## Grading
@@ -76,8 +77,8 @@ Students are expected to conform to the UC Berkeley Honor Code which states: “
 Plagiarism results in failing the course (NP) Please respect the rights of others to express their points of view in the classroom.
 
 ## Department Resources
-[About Film and Media at Berkeley](https://filmmedia.berkeley.edu/about/)
-[Care and Support](https://filmmedia.berkeley.edu/student-resources/care-and-support/)
-[Film Resources at Berkeley](https://filmmedia.berkeley.edu/film-resources/film-resources-at-berkeley/)
-Undergraduate Advisor: Hedi Vafaeenia ([filmmediaugadvising@berkeley.edu](mailto:filmmediaugadvising@berkeley.edu))
-Undergraduate Faculty Advisor: Professor Nico Pereda ([nicopereda@berkeley.edu](nicopereda@berkeley.edu))
+* [About Film and Media at Berkeley](https://filmmedia.berkeley.edu/about/)
+* [Care and Support](https://filmmedia.berkeley.edu/student-resources/care-and-support/)
+* [Film Resources at Berkeley](https://filmmedia.berkeley.edu/film-resources/film-resources-at-berkeley/)
+* Undergraduate Advisor: Hedi Vafaeenia ([filmmediaugadvising@berkeley.edu](mailto:filmmediaugadvising@berkeley.edu))
+* Undergraduate Faculty Advisor: Professor Nico Pereda ([nicopereda@berkeley.edu](nicopereda@berkeley.edu))

@@ -1,8 +1,8 @@
 ---
 title: Week 0 Announcement
 week: 0
-date: 2019-04-01
+date: 2023-12-20
 ---
 
-Hello world!
+1. Hello world!
 {: .fs-5 }

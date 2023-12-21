@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Filmmaking Basics DeCal
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Filmmaking Basics DeCal
 ---
 
 # Just the Class

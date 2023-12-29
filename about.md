@@ -73,7 +73,7 @@ Our class will end with a final filmmaking project. This project will synthesize
 More details on the final project will be given as the course proceeds.
 
 ## Academic Honesty
-Students are expected to conform to the UC Berkeley Honor Code which states: “As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others.” This code has been adopted by the student community, and you can read more about it: https://asuc.org/honor-code-landing/
+Students are expected to conform to the UC Berkeley Honor Code which states: “As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others.” This code has been adopted by the student community, and you can read more about it: [https://asuc.org/honor-code-landing/](https://asuc.org/honor-code-landing/)
 Plagiarism results in failing the course (NP) Please respect the rights of others to express their points of view in the classroom.
 
 ## Department Resources

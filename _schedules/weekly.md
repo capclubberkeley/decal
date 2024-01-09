@@ -11,11 +11,6 @@ timeline:
 schedule:
   - name: Monday
   - name: Tuesday
-    events:
-        - name: Lecture
-          start: 6:00 PM
-          end: 8:00 PM
-          location: TBD
   - name: Wednesday
   - name: Thursday
     events:

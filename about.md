@@ -18,6 +18,8 @@ description: >-
 
 ## About
 
+**Note: this page is still under construction. Information may be subject to change**
+
 This course provides an introduction to visual storytelling through motion pictures. No prior experience is required. All you need is a strong interest in filmmaking and enough time to direct a short film. However, if you have already taken production classes such as FILM 185: Intermediate Moving Image Production, FILM 186: Advanced Moving Image Production or are highly experienced in filmmaking, this class may not be an appropriate class for you. Students will encounter the entire process of film production from pre-production to production and post-production. This course can be an opportunity for students to learn the foundations of cinematography, lighting, sound design, and editing.
 
 This course will enhance students' knowledge of the basic filmmaking process through visual storytelling, learning how to direct, and editing. By the end of this course, students will be able to create a variety of lighting setups, capture and process audio on set, and successfully complete a short film

@@ -12,9 +12,9 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300}
 
-<!-- {% if site.announcements %}
+{% if site.announcements %}
 {{ site.announcements.last }}
-{% endif %} -->
+{% endif %}
 
 ## Weekly Schedule
 {% for schedule in site.schedules %}
